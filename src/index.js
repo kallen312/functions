@@ -14,7 +14,7 @@ function favColor(){
 
 let myfavColor = "red";
 
-let color = "pink";
+let color = "green";
 
 console.log(favColor);
 console.log(color);
